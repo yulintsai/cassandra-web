@@ -4,9 +4,9 @@
 */
 import Vue from 'vue';
 import {
-    Loading,
-    Table,
-    TableColumn,
+  Loading,
+  Table,
+  TableColumn,
 } from 'element-ui';
 import '@/style/theme/index.css';
 
